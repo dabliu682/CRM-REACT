@@ -11,3 +11,9 @@
 ##Created PostCSS config file: postcss.config.js</br>
 ## Instalar componentes para enrutamiento
 >npm i react-router-dom
+## Instalar formik y yup para validacion de formularios
+npm i formik yup
+## Instalar json-server
+npm i -g json-server
+## Correr json-server
+json-server --watch db.json --port 4000

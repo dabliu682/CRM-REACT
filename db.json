@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Oscar Gallardo",
+      "empresa": "Compuconta Software s.a.s",
+      "email": "ing.oscargallardo@hotmail.com",
+      "telefono": "3015005600",
+      "notas": "Cliente recoomendado por otro",
+      "id": 2
+    },
+    {
+      "nombre": "Diana Mireya Rodriguez Cabrera",
+      "empresa": "Diseños Diana",
+      "email": "diana@hotmail.com",
+      "telefono": "3023583847",
+      "notas": "asf",
+      "id": 4
+    },
+    {
+      "nombre": "Ariel Gallardo",
+      "empresa": "Manofacturas Leira",
+      "email": "ariel@hotmail.com",
+      "telefono": "3008319322",
+      "notas": "",
+      "id": 5
+    }
+  ]
+}
